@@ -6,10 +6,9 @@ sources:
 
     tables:
       - name: weather_daily_raw
-      - name: weather_hourly_raw
 
   - name: flights_data
-    schema: s_maxlennartasmussen
+    schema: air_force
 
     tables:
       - name: flights
