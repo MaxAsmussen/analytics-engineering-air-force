@@ -5,7 +5,7 @@ sources:
     schema: air_force
 
     tables:
-      - name: weather_daily_raw
+      - name: weather_daily_raw_max
 
   - name: flights_data
     schema: air_force
@@ -13,4 +13,3 @@ sources:
     tables:
       - name: flights
       - name: airports
-      - name: regions
